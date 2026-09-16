@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Input datasets and generated experiment artefacts
+data/
+outputs/
+artifacts/
+*.ply
+*.zip
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
